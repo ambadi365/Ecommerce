@@ -1,2 +1,2 @@
 # Ecommerce
-A sample E-commerce website build in angular 16
+A sample E-commerce website build in angular-16

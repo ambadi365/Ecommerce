@@ -68,8 +68,8 @@
               "browserTarget": "Ecommerce:build:production"
             },
             "development": {
-              "browserTarget": "Ecommerce:build:development"
-             
+              "browserTarget": "Ecommerce:build:development",
+              "proxyConfig": "src/proxy.conf.json"
             }
            
           },

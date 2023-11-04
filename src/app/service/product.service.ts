@@ -7,7 +7,7 @@ import { IProduct } from "../pages/home/product.interface";
   providedIn: "root",
 })
 export class ProductService {
-  baseUrl: string = "https://onlinetestapi.gerasim.in/api/Ecomm";
+  baseUrl: string = "/api/Ecomm";
 
   constructor(private http: HttpClient) {}
 
